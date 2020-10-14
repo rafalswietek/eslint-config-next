@@ -17,7 +17,7 @@
     "@babel/core": "^7.12.0",
     "@babel/eslint-parser": "^7.11.5",
     "@babel/eslint-plugin": "^7.11.5",
-    "@rafalswietek/eslint-config": "git+https://git@github.com/rafalswietek/eslint-config.git",
+    "eslint": "^7.7.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
