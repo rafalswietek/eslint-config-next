@@ -1,0 +1,38 @@
+{
+  "name": "@rafalswietek/eslint-config-next",
+  "version": "1.0.0",
+  "description": "ESLint configurations for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "next"
+  ],
+  "author": "Rafał Świętek <raf.swietek@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.12.0",
+    "@babel/eslint-parser": "^7.11.5",
+    "@babel/eslint-plugin": "^7.11.5",
+    "@rafalswietek/eslint-config": "git+https://git@github.com/rafalswietek/eslint-config.git",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.2"
+  },
+  "engines": {
+    "node": ">= 12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalswietek/eslint-config-next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafalswietek/eslint-config-next/issues"
+  },
+  "homepage": "https://github.com/rafalswietek/eslint-config-next#readme"
+}
