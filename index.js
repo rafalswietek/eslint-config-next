@@ -64,6 +64,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/react-in-jsx-scope': 'off',
     'react/prop-types': [2, { ignore: ['children'] }],
+    'react/jsx-props-no-spreading': 0,
   },
   env: {
     browser: true,
